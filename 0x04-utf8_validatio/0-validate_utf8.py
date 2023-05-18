@@ -9,6 +9,7 @@ def validUTF8(data):
     Return: True if data is a valid UTF-8
     encoding, else return False
     """
+
     b_cnt = 0
 
     for i in data:
