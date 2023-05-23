@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """ N queens """
 
-import syst
+import sys
 
 
 if __name__ == '__main__':
