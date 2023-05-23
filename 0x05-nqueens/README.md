@@ -22,7 +22,7 @@ This project is one of the given tasks for interview preparation.
  </tr>
  <tr>
   <td>
-![image](http://www.crestbook.com/files/Judit-photo1_602x433.jpg)
+![image]('http://www.crestbook.com/files/Judit-photo1_602x433.jpg')
 
 The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. Write a program that solves the N queens problem.
 
